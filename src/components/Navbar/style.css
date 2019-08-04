@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: blue;
+  margin-bottom: 10px;
+}
+
+.title {
+  float: left;
+  padding-left: 2rem;
+}
+
+.scores {
+  float: right;
+  padding-right: 2rem
+}
